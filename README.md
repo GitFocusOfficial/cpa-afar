@@ -118,5 +118,10 @@
 | 11-10         | Acquisition of Net Asset for Questions 15 to 16
 | 11-11         | Indirect Method of Determining Goodwill for Question 17
 | 11-12         | With Tax Rate for Question 18
+|               |
+|               |
+| 12            | Separate and Consolidated FS
+| 12-1          | Separate FS Concepts
+| 12-2          | Discussion of Separate FS MCQs
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
