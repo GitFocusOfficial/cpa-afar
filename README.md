@@ -123,5 +123,42 @@
 | 12            | Separate and Consolidated FS
 | 12-1          | Separate FS Concepts
 | 12-2          | Discussion of Separate FS MCQs
+| 12-3          | Consolidated FS Concepts Part I
+| 12-4          | Consolidated FS Concepts Part II
+| 12-5          | Theoretical Questions 5 to 14 and Computational Questions 2 to 3
+| 12-6          | Introduction to Intercompany Transactions
+| 12-7          | FVA, PS, and Dividends Questions 4 to 6 Computational
+| 12-8          | FVA and Dividends Question 7 Computational
+| 12-9          | FVA, Dividends, and NCI Questions 8 to 10 Computational
+| 12-10         | Intercompany Sale of Inventories Concepts
+| 12-11         | Intercompany Sale of Inventories Questions 11 to 14
+| 12-12         | Intercompany Sale of Inventories Question 15
+| 12-13         | Summary of Intercompany Sale of Inventories
+| 12-14         | Intercompany Sale of NDA Concepts
+| 12-15         | Intercompany Sale of NDA Application Question 16
+| 12-16         | Intercompany Sale of DA Concepts
+| 12-17         | Intercompany Sale of DA Application Questions 17 to 25
+| 12-18         | Intercompany, FVA, and Indirect Ownership Question 26
+| 12-19         | Summary of Intercompany Sale of DA and NDA
+| 12-20         | Intercompany Balances, PS, and Equity Method Questions 27 to 29
+| 12-21         | Push-Down vs. No Push-Down Question 30 to 31
+| 12-22         | Changes in Ownership Concepts
+| 12-23         | Changes in Ownership Application
+| 12-24         | Reverse Acquisition Concepts
+| 12-25         | Reverse Acquisition Application
+| 12-26         | Interaction of PFRSs and Other Matters
+| 12-27         | SFS and CFS in Actual Practice
+|               |
+|               |
+| 13            | Joint Arrangements
+| 13-1          | Joint Arrangements Concepts Part I
+| 13-2          | Joint Arrangements Concepts Part II
+| 13-3          | Traditional Joint Operation Question 1
+| 13-4          | Joint Operation Question 2
+| 13-5          | Investment in JV Questions 3 to 6
+| 13-6          | Investment in JV with PS Question 7
+| 13-7          | Investment in JV with Intercompany Questions 8 to 9
+| 13-8          | Join Operation and Venture
+| 13-9          | Joint Arrangement in Actual Practice
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
