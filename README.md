@@ -90,5 +90,33 @@
 |               |
 | 10            | Decentralized Operation
 | 10-1          | Branch and Agency
+| 10-2          | Discussion on Agency - Question 1
+| 10-3          | Unique Account Titles
+| 10-4          | HOBA General Procedures Question 2
+| 10-5          | Combined Financial Statement
+| 10-6          | General Procedures and Combined FS Questions 3 to 6
+| 10-7          | HOBA General Procedures Questions 7 to 8
+| 10-8          | Special Procedures - Shipments Billed Above Cost Question 9 to 12
+| 10-9          | In Transit Shipments Questions 13 to 14
+| 10-10         | Special Procedures Questions 15 to 16
+| 10-11         | Interbranch Transfers
+| 10-12         | Interbranch Transfers of Merchandise Questions 17 to 18
+| 10-13         | Reconciliation of Reciprocal Accounts
+| 10-14         | Reconciliation of Reciprocal Accounts Questions 19 to 20
+|               |
+|               |
+| 11            | Business Combination
+| 11-1          | Business Combination Concepts Part I
+| 11-2          | Business Combination Concepts Part II
+| 11-3          | Business Combination Concepts Part III
+| 11-4          | MCQ Theoretical Discussion
+| 11-5          | MCQ Computational for Questions 1 to 5
+| 11-6          | NCI and Control Premium for Questions 6 to 8
+| 11-7          | Step Acquisition and Business Combination without Consideration for Questions 9 to 10
+| 11-8          | Contingent Consideration for Question 11
+| 11-9          | Comprehensive for Questions 12 to 14
+| 11-10         | Acquisition of Net Asset for Questions 15 to 16
+| 11-11         | Indirect Method of Determining Goodwill for Question 17
+| 11-12         | With Tax Rate for Question 18
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
