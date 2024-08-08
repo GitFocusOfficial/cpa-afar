@@ -160,5 +160,110 @@
 | 13-7          | Investment in JV with Intercompany Questions 8 to 9
 | 13-8          | Join Operation and Venture
 | 13-9          | Joint Arrangement in Actual Practice
+|               |
+|               |
+| 14            | Forex and Hyperinflation
+| 14-1          | Forex Basic Concepts Part I
+| 14-2          | Forex Basic Concepts Part II
+| 14-3          | Forex Transaction Rules
+| 14-4          | Exercise 1 to 3 Forex Transaction
+| 14-5          | Exercise 4 to 5 Forex Transaction
+| 14-6          | IFRIC 22 Forex Transactions and Advance Consideration
+| 14-7          | Foreign Operation FS Translation Rules
+| 14-8          | Exercise 6 to 8 Foreign Operation FS Translation
+| 14-9          | Exercise 9 Foreign Operation FS Translation
+| 14-10         | Exercise 10 Change in Ownership
+| 14-11         | FS Restatement Rules
+| 14-12         | Exercise 11 FS Restatement and Translation
+| 14-13         | Forex in Actual Practice
+|               |
+|               |
+| 15            | Derivatives and Hedge Accounting
+| 15-1          | Derivatives Concepts
+| 15-2          | Hedge Accounting Concepts
+| 15-3          | Categories of Hedge
+| 15-4          | Discussion of Review Questions - Theoretical
+| 15-5          | Discussion of Rates to Use and Contract to Enter
+| 15-6          | Exercise 1 Speculation
+| 15-7          | Exercise 2 Call Option
+| 15-8          | Exercise 3 Interest Rate Swap
+| 15-9          | Exercise 4 Basic Concepts of Derivatives
+| 15-10         | Exercise 5 Undesignated Hedge - Import
+| 15-11         | Exercise 6 Undesignated Hedge - Export
+| 15-12         | Exercise 7 Undesignated Hedge - Import with PV
+| 15-13         | Exercise 8 Firm Commitment
+| 15-14         | Exercise 9 Forecast Transaction
+| 15-15         | Exercise 10 Hedge of a Net Investment in FO
+| 15-16         | Exercise 11 Appendix - Options
+| 15-17         | Derivatives and Hedge Accounting in Actual Practice
+|               |
+|               |
+| 16            | Not-for-Profit Organizations
+| 16-1          | Not-for-Profit Organizations Concepts Part I
+| 16-2          | Not-for-Profit Organizations Concepts Part II
+| 16-3          | Discussion of Review Questions Part I
+| 16-4          | Discussion of Review Questions Part II
+| 16-5          | Not-for-Profit Organizations in Actual Practice
+|               |
+|               |
+| 17            | Government Accounting
+| 17-1          | Government Accounting Concepts Part I
+| 17-2          | Government Accounting Concepts Part II
+| 17-3          | Discussion of Exercise 1 to 5
+| 17-4          | Discussion of Exercise 6
+| 17-5          | Government Accounting in Actual Practice
+|               |
+|               |
+| 18            | Cost Accounting
+| 18-1          | Job Order Costing
+| 18-2          | Job Order Costing Concepts
+| 18-3          | Exercise 1 Job Order Costing Basics
+| 18-4          | Exercise 2 Job Order Costing Reconstructive
+| 18-5          | Exercise 3 and 4 Rework and Spoilage
+| 18-6          | Exercise 5 Overtime Premium
+|               |
+|               |
+| 19            | Process Costing
+| 19-1          | Process Costing Concepts
+| 19-2          | Exercise 1 One Department - WAVG vs. FIFO
+| 19-3          | Exercise 2 WAVG - Two Departments
+| 19-4          | Exercise 3 FIFO - Two Departments
+| 19-5          | Process Costing Spoilage Concepts
+| 19-6          | Exercise 4 to 6 Spoilage - Discrete vs. Continuous
+| 19-7          | Exercise 7 Discrete - Normal and Abnormal Spoilage
+| 19-8          | Exercise 8 Reconstructive Problem
+| 19-9          | Exercise 9 Operations Costing
+| 19-10         | Process Costing Summary
+|               |
+|               |
+| 20            | Backflush Costing
+| 20-1          | Backflush Costing Concepts
+| 20-2          | Backflush Costing Exercises
+|               |
+|               |
+| 21            | Activity-Based Costing
+| 21-1          | Activity-Based Costing Concepts
+| 21-2          | Activity-Based Costing Exercises
+|               |
+|               |
+| 22            | Joint and By-Product Costing
+| 22-1          | Joint and By-Products Concepts
+| 22-2          | Exercise 1 to 5 Joint Cost Allocation
+| 22-3          | Exercise 6 to 8 Joint Cost Allocation with By-Products
+|               |
+| 23            | Service Cost Allocation
+| 23-1          | Service Cost Allocation Concepts
+| 23-2          | Service Cost Allocation Exercises
+|               |
+|               |
+| 24            | Insurance Contracts
+| 24-1          | Insurance Contracts Concepts
+| 24-2          | Discussion of Exercises
+|               |
+|               |
+| 25            | Service Concession Arrangement
+| 25-1          | Service Concession Arrangement Concepts
+| 25-2          | Discussion of Exercises
+| 25-3          | Service Concession Arrangement in Actual Practice
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
